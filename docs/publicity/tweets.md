@@ -1,5 +1,11 @@
 # Tweets
 
+## 2025-01-10
+
+```text
+Today 16:15-17:00 at Stadsbiblioteket (room: Konferensrummet): Ismail Elouafiq: 'Beyond the lab: spreading the joy of figuring things out'.
+```
+
 ## 2025-01-07
 
 ```text
