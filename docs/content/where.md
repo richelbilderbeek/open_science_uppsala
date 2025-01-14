@@ -16,3 +16,7 @@ Svartbäcksgatan 17, 753 75 Uppsala:
 ![Annotated map of USB and how to find Konferensrummet](pics/usb_konferensrummet.png)
 
 > The ground floor of Uppsala Stadsbibliotek. We are in the room called 'Konferensrummet'
+
+![Konferensrummet](konferensrummet.jpg)
+
+> Konferensrummet
