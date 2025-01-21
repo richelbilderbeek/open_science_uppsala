@@ -12,7 +12,7 @@ A candidate is:
 
 - unique in the world
 - has blue (i.e. RGB values (2, 34, 94)) in the top-left person-symbol
-- has the same blue color in the letters `OSC` 
+- has the same blue color in the letters `OSC`
 - the bottom left person-symbol has the same color as the last letter
 
 Image                                               |Description
