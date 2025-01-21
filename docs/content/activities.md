@@ -1,15 +1,11 @@
 # Activities
 
-![20250110: Ismail Elouafiq](20250110_ismail_elouafiq/20250110_ismail_elouafiq.jpg)
-
-> Our next activity
-
 We usually have a speaker at the second Friday of the month,
 see schedule below.
 
 When                      | Where                  |What
 --------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------
-2025-02-14 16:15-17:00    |Puben [2]               |Informal meeting with logo discussion
+2025-02-14 16:15-17:00    |Puben [2]               |[Informal meeting with logo discussion](20250214/README.md)
 2025-03-14 16:15-17:00    |USB [1], Konferensrummet|Parul Tewatia, TBA
 2025-04-11 16:15-17:00    |USB [1], Konferensrummet|Joanna Sendecka, 'Fear-not Open Science - tackling challenges in sharing your research'
 2025-05-09 16:15-17:00    |USB [1], Konferensrummet|?Rafael Ahlskog
