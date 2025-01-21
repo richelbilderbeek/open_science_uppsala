@@ -3,6 +3,10 @@
 We usually have a speaker at the second Friday of the month,
 see schedule below.
 
+![Candidate for OSCU's new logo](oscu_logo_swedish_flag_uppsala.png)
+
+> Our next logo? To be decided at [our next informal meeting](20250214_informal_meeting/README.md)
+
 When                      | Where                  |What
 --------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------
 2025-02-14 16:15-17:00    |Puben [2]               |[Informal meeting with logo discussion](20250214_informal_meeting/README.md)
