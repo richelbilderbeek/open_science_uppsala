@@ -35,6 +35,5 @@ Läs mer
 Open Science Uppsala inklusive aktuellt program <https://open-science-community-uppsala.github.io/open_science_community_uppsala/>
 E-postlista <https://www.freelists.org/list/osu>
 LinkedIn <https://www.linkedin.com/groups/9261540/>
-Twitter <https://twitter.com/opensciupp>
 Facebook <https://www.facebook.com/profile.php?id=100090996055053>
 Liknande nätverk är ”Science Fika” <https://mp.uu.se/web/nyheter/-/-science-fika-med-passion-for-vetenskap>

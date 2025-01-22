@@ -157,9 +157,9 @@ To connect people that are interesting in learning more about Open Science.
 
 See [the newsletter archive](../publicity/newsletter_archive.md) for previous newsletters.
 
-## Twitter
+## Bluesky
 
-### What is the Twitter policy?
+### What is the Bluesky policy?
 
 - Sent at the first day of each month, for months that have an activity
 - Short
@@ -232,7 +232,7 @@ Ordered alphabetically on first name:
   ![ORCID logo](pics/ORCIDiD_icon16x16.png)
   [0000-0003-1107-7049](https://orcid.org/0000-0003-1107-7049)
   ![Twitter logo](pics/twitter_logo_19_x_16.png)
-  [@rjcbilderbeek](https://twitter.com/rjcbilderbeek)
+  [@richelbilderbeek](https://twitter.com/rjcbilderbeek)
   ![GitHub logo](pics/github_logo_16_x_16.png)
   [richelbilderbeek](https://github.com/richelbilderbeek)
   ![OSF logo](pics/osf_logo_16_x_16.png)

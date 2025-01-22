@@ -69,7 +69,7 @@ Cheers, Richel Bilderbeek, on behalf of the OSU team
  * [2] By default, all events are in the Mallassal at Uppsala Stadsbibliotek
 ```text
 
-Twitter, post-presentation, <https://twitter.com/opensciupp/status/1648183665090863104>
+Twitter, post-presentation:
 
 ```text
 The slides of Barbro Bornsäter's talk can be found at [URL]
