@@ -2,6 +2,6 @@
 
 Admin things.
 
-- [OSC style guid](osc_style_guide.docx)
+- [OSC style guide](osc_style_guide.pdf)
 - [OSF guiding principles](osf_guiding_principles.pdf)
 
