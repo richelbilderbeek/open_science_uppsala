@@ -12,7 +12,7 @@ When                      | Where                  |What
 2025-02-14 16:15-17:00    |Puben [2]               |[Informal meeting with logo discussion](20250214_informal_meeting/README.md)
 2025-03-14 16:15-17:00    |USB [1], Konferensrummet|Parul Tewatia, TBA
 2025-04-11 16:15-17:00    |USB [1], Konferensrummet|Joanna Sendecka, 'Fear-not Open Science - tackling challenges in sharing your research'
-2025-05-09 16:15-17:00    |USB [1], Konferensrummet|?Rafael Ahlskog
+2025-05-09 16:15-17:00    |USB [1], Konferensrummet|Rafael Ahlskog
 
 - See ['events'](events.md) for our past activities.
 - [1] [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket#/), Svartbäcksgatan 17, 753 75 Uppsala,
